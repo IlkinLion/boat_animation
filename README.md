@@ -6,7 +6,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/IlkinLion/boat_animation?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/IlkinLion/boat_animation?style=for-the-badge)
 
-  # Winter_animation
+  # Boat_animation
 
 Today I create with html and css file for Boat_animation. I use here html and css tags. 
 ## ## RULES OF USE
